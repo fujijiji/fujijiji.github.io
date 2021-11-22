@@ -75577,7 +75577,7 @@ return null},
 $S:0}
 Z.a8_.prototype={
 $0(){var s=null
-A.avq(X.aqW(),"\xa9 2021 fujiji","fujiji app",s,H.a([L.b7("test",s,s,s,s,s,s)],t.p),this.a)},
+A.avq(X.aqW(),"\xa9 2021 fujiji","fujiji app v1.01",s,H.a([L.b7("test",s,s,s,s,s,s)],t.p),this.a)},
 $S:0}
 Z.a80.prototype={
 $3(a,b,c){var s=null
